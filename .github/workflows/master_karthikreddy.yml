@@ -56,5 +56,5 @@
           with:
             app-name: 'karthikreddy'
             slot-name: 'production'
-            publish-profile: ${{ secrets.AzureAppService_PublishProfile_2429aa02fd2841979ef08a036599a69b }}
+            publish-profile: ${{ secrets.AzureAppService_PublishProfile_364fc57392a24676aa44bdd897703454 }}
             package: .
